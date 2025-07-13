@@ -35,7 +35,7 @@ This is a web-based application designed to help small businesses and shopkeeper
 
 🔗 [View Project on Netlify](https://creditsmanagement.netlify.app/)
 
-*(Replace with your actual Netlify link)*
+
 
 ---
 
