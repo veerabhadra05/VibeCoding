@@ -35,7 +35,7 @@ Projects in this repo may use a mix of the following:
 
 - 💡 [ChatGPT](https://chat.openai.com)
 - ⚡ [Google Gemini](https://gemini.google.com/)
-- 🤖 [Bolt AI](https://bolt.fun/)
+- 🤖 [Bolt AI](https://bolt.new/)
 - 🛠️ Vite, React, TypeScript, TailwindCSS
 - 🔧 ESLint, PostCSS, etc.
 
@@ -55,8 +55,4 @@ Projects in this repo may use a mix of the following:
 Made with ❤️ by [veerabhadra05](https://github.com/veerabhadra05)  
 Open to collaboration, feedback, and ideas!
 
----
 
-## 📄 License
-
-This repository is open-source and free to use under the [MIT License](LICENSE).
