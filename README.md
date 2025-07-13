@@ -22,7 +22,7 @@ This repository contains projects built using the **VibeCoding** methodology. Ea
 
 ### 📁 Current Projects
 
-- [`CustomerCreditApp`](./CustomerCreditApp)  
+- [`CustomerCreditApp`](./Customer_Credits_Management_App)  
   A credit management system to track customer payments, bills, and credit dues, created using AI-generated code with Vite, React, TypeScript, and Tailwind CSS.
 
 More projects will be added as they are built using AI-assisted development.
